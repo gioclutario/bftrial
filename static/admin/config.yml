@@ -24,6 +24,7 @@ collections:
         - label: "Body"
           name: "body"
           widget: "markdown"
+<<<<<<< HEAD
 - file: "src/pageData/menu.md"
         label: "Menu"
         name: "menu"
@@ -48,3 +49,21 @@ collections:
               - label: "Price"
                 name: "price"
                 widget: "string"
+=======
+    - name: "pages"
+      label: "Pages"
+      files: 
+        - file: "src/pageData/index.md"
+          label: "Index Page"
+          name: "index-page"
+          fields:
+            - name: "contentKey"
+              widget: "hidden"
+              default: "indexPage" 
+            - label: "Tagline"
+              name: "tagline"
+              widget: "string"
+            - label: "Hero Image"
+              name: "heroImage"
+              widget: "image"
+>>>>>>> 8f357b57027e5f6c0ba6cefad37cf5522cdb4aff
