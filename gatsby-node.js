@@ -48,7 +48,6 @@ exports.createPages = async function({ graphql, actions }) {
       });  
     });
     
-  const posts = result.data.allMarkdownRemark.edges;
   const pageSize = 5;
   const pageCount = Math.ceil(posts.length / pageSize );
 
