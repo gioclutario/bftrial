@@ -14,8 +14,7 @@ categories:
         description: Fresh brewed black tea leaves.
         price: $2.25
       - name: Iced Mocha
-        description: Espresso and mocha sauce, milk and ice, with whipped
-cream.
+        description: Espresso and mocha sauce, milk and ice, with whipped cream.
         price: $3.49
   - name: Hot Drinks
     items:
