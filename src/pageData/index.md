@@ -1,6 +1,6 @@
 ---
 contentKey: indexPage
-tagline: Random Weird Facing North compass!
+tagline: Old iPhone Wallpaper
 heroImage: /img/prettyAbove.jpg
 ---
 
