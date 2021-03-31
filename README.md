@@ -1,3 +1,5 @@
+As of 2/23/2021, this project is officially complete. I will be slowly upgrading components of this website everyone and then but at the moment this will just be a personal blogging platform! 
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
