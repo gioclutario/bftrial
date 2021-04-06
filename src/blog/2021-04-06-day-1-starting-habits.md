@@ -25,6 +25,6 @@ Speaking of work, in order to get anything done, work must be done. I may find m
 
 ## My Goal Moving Forward
 
-** So with describing how I find motivation, what exactly is my goal moving forward? ** 
+**So with describing how I find motivation, what exactly is my goal moving forward?** 
 
 Honestly, I currently can't say in detail what exactly I want but I do think that if I can discipline myself in writing everyday, whether it be writing code or writing blog posts,
