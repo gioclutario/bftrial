@@ -1,6 +1,6 @@
 ---
 contentKey: blog
-title: "Day #1 (100DaysOfCode):  Starting habits and how to maintain them. "
+title: "Day #1 (100Days):  Starting habits and how to maintain them. "
 date: 2021-04-06T18:18:09.903Z
 ---
 # Day 1
@@ -27,4 +27,4 @@ Speaking of work, in order to get anything done, work must be done. I may find m
 
 > ### So with describing how I find motivation, what exactly is my goal moving forward?
 
-Honestly, I currently can't say in detail what exactly I want but I do think that if I can discipline myself in writing everyday, whether it be writing code or writing blog posts,
+Honestly, I currently can't say in detail what exactly I want but I do think that if I can discipline myself in writing everyday, whether it be writing code or writing blog posts, I should be able to get back into a workflow that allows me to build a lot more products in a more meaningful manner. Right now, I feel like I've been aimlessly thinking of products that I want to build without having actually done the work to create prototypes. I would say that with me building this blog as well as my other flask microblog/app, it seems like I'm finally getting into a work mode that's been effective at producing actual content. Moving forward, I need to start implementing more changes to these websites in looks, functionality, and possible consider scalability if I do end up finding myself with a user base. I also want to start the 50 React Projects so I can incorporate those projects/project ideas into my website(preferably a cleaner version of this one).
