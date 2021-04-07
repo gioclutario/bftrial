@@ -1,7 +1,7 @@
 ---
 contentKey: blog
 title: "Day #1 (100Days):  Starting habits and how to maintain them. "
-date: 2021-04-06T18:18:09.903Z
+date: 2021-04-07T02:34:30.392Z
 ---
 # Day 1
 
